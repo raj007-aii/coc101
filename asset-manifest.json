@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coc101/static/css/main.653f6631.css",
+    "main.js": "/coc101/static/js/main.f6a88869.js",
+    "index.html": "/coc101/index.html",
+    "main.653f6631.css.map": "/coc101/static/css/main.653f6631.css.map",
+    "main.f6a88869.js.map": "/coc101/static/js/main.f6a88869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653f6631.css",
+    "static/js/main.f6a88869.js"
+  ]
+}
